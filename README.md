@@ -7,7 +7,7 @@ graph search algorithms in a given graph.
 2. Depth First Search (DFS) 
 3. Iterative Deepening Search (IDS) 
 4. Uniform Cost Search (UCS) (Dijkstra’s algorithm)
-5. A* algorithm
+5. A* algorithm(A-star)
 
 I implemented the above algorithms to find the traversal path and exact path of any given
 graph (State Space Graph).
@@ -20,3 +20,8 @@ matrix and adjacency list. You can insert the given graph using either of these 
 adjacency list is easy for smaller graph representation. 
 
 ![Alt text](screenshot2.png)
+
+
+Then,
+Implemented the algorithms in the first part on a randomly generated space graph.
+(bfs-random, dfs-random, ucs-random etc)
